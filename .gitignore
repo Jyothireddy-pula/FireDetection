@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Data and Models
+models/*.pkl
+models/*.npy
+models/*.joblib
+
+
+# IDEs and Editors
+.vscode/
+.idea/
+.cursor/
+.cursorrules
+.windsurfrules
+*.swp
+*~
+
+# Claude Code and AI Tools
+.claude/
+.code-review-graph/
+.mcp.json
+.opencode.json
+AGENTS.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+*.zip
+*.docx
+*.pdf
