@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔥 WildfireGuard AI - Wildfire Risk Prediction System
 
 A smart system that helps predict forest fire risk using artificial intelligence and real-time weather data.
@@ -250,7 +250,3 @@ This project is for educational and research purposes.
 
 ---
 
-**Made with ❤️ to help prevent wildfires**
-=======
-# FireDetection
->>>>>>> 9071efdfa22cd8b0f06fd0ec1b0a3b31e06f6c5d
